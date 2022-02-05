@@ -18,6 +18,14 @@
 | Everything | 必备 | [官网](https://www.voidtools.com/zh-cn/)                     | √    | ×    |                             |
 | 有道云笔记 | 必备 | [官网](https://note.youdao.com/)                             | √    | √    |                             |
 | 有道词典   | 必备 | [官网](https://www.youdao.com/)                              | √    | √    |                             |
+| Bandizip   | 必备 | [官网](https://www.bandisoft.com/bandizip/)                  | √    | ×    |                             |
+| Notepad++  | 开发 | [官网](https://notepad-plus-plus.org/downloads/)             | √    | ×    |                             |
+| 百度网盘   | 必备 | [官网](https://pan.baidu.com/download)                       | √    | √    |                             |
+| PyCharm    | 开发 | [官网](https://www.jetbrains.com/pycharm/)                   | √    | √    |                             |
+| IDEA       | 开发 | [官网](https://www.jetbrains.com/idea/)                      | √    | √    |                             |
+| QQ音乐     | 必备 | [官网](https://y.qq.com/)                                    | √    | √    |                             |
+| 完美解码   | 必备 | [官网](https://jm.wmzhe.com/)                                | √    | ×    |                             |
+| 格式工厂   | 必备 | [官网](http://www.pcgeshi.com/)                              | √    | ×    |                             |
 
 # 2 Windows系统常用配置
 
@@ -66,3 +74,18 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 然后将用户目录下.ssh/xx.pub文件的内容添加到GitHub的相应设置里即可。
 
+## 5.3 显示中文路径
+
+执行如下命令：
+
+```
+git config --global core.quotepath false
+```
+
+# 6 Notepad++配置
+
+在Notepad++中关闭自动记忆上一次打开的文件的方法：
+
+设置->首选项->备份->记住最后打开的文件。
+
+![image-20220205122804581](README.assets/image-20220205122804581.png)
