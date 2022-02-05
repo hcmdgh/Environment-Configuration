@@ -4,28 +4,28 @@
 
 # 1 软件列表
 
-| 软件名     | 类别 | 下载方式                                                     | Win  | Mac  | 备注                        |
-| ---------- | ---- | ------------------------------------------------------------ | ---- | ---- | --------------------------- |
-| Typora     | 开发 | [Win](https://typora.io/windows/dev_release.html) [Mac](https://typora.io/dev_release.html) | √    | √    | >=1.0版本收费。             |
-| Edge       | 必备 | Store                                                        | √    | √    |                             |
-| 搜狗输入法 | 必备 | [官网](https://pinyin.sogou.com/)                            | √    | √    |                             |
-| VS Code    | 开发 | [官网](https://code.visualstudio.com/)                       | √    | √    |                             |
-| Git        | 开发 | [官网](https://git-scm.com/)                                 | √    | √    |                             |
-| Anaconda   | 开发 | [清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/)     | √    | √    | Conda和Pip源配置参见第3节。 |
-| WPS        | 必备 | [官网](https://www.wps.cn/)                                  | √    | √    |                             |
-| PyTorch    | 开发 | [官网](https://pytorch.org/get-started/locally/)             | √    | √    | PyTorch安装指南参见第4节。  |
-| 微信       | 必备 | [官网](https://pc.weixin.qq.com/)                            | √    | √    |                             |
-| Everything | 必备 | [官网](https://www.voidtools.com/zh-cn/)                     | √    | ×    |                             |
-| 有道云笔记 | 必备 | [官网](https://note.youdao.com/)                             | √    | √    |                             |
-| 有道词典   | 必备 | [官网](https://www.youdao.com/)                              | √    | √    |                             |
-| Bandizip   | 必备 | [官网](https://www.bandisoft.com/bandizip/)                  | √    | ×    |                             |
-| Notepad++  | 开发 | [官网](https://notepad-plus-plus.org/downloads/)             | √    | ×    |                             |
-| 百度网盘   | 必备 | [官网](https://pan.baidu.com/download)                       | √    | √    |                             |
-| PyCharm    | 开发 | [官网](https://www.jetbrains.com/pycharm/)                   | √    | √    |                             |
-| IDEA       | 开发 | [官网](https://www.jetbrains.com/idea/)                      | √    | √    |                             |
-| QQ音乐     | 必备 | [官网](https://y.qq.com/)                                    | √    | √    |                             |
-| 完美解码   | 必备 | [官网](https://jm.wmzhe.com/)                                | √    | ×    |                             |
-| 格式工厂   | 必备 | [官网](http://www.pcgeshi.com/)                              | √    | ×    |                             |
+| 软件名     | 类别 | 下载方式                                                 | Win  | Mac  | 备注                        |
+| ---------- | ---- | -------------------------------------------------------- | ---- | ---- | --------------------------- |
+| Typora     | 开发 | [GitHub](./安装包/Typora)                                | √    | √    | >=1.0版本收费。             |
+| Edge       | 必备 | Store                                                    | √    | √    |                             |
+| 搜狗输入法 | 必备 | [官网](https://pinyin.sogou.com/)                        | √    | √    |                             |
+| VS Code    | 开发 | [官网](https://code.visualstudio.com/)                   | √    | √    |                             |
+| Git        | 开发 | [官网](https://git-scm.com/)                             | √    | √    |                             |
+| Anaconda   | 开发 | [清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/) | √    | √    | Conda和Pip源配置参见第3节。 |
+| WPS        | 必备 | [官网](https://www.wps.cn/)                              | √    | √    |                             |
+| PyTorch    | 开发 | [官网](https://pytorch.org/get-started/locally/)         | √    | √    | PyTorch安装指南参见第4节。  |
+| 微信       | 必备 | [官网](https://pc.weixin.qq.com/)                        | √    | √    |                             |
+| Everything | 必备 | [官网](https://www.voidtools.com/zh-cn/)                 | √    | ×    |                             |
+| 有道云笔记 | 必备 | [官网](https://note.youdao.com/)                         | √    | √    |                             |
+| 有道词典   | 必备 | [官网](https://www.youdao.com/)                          | √    | √    |                             |
+| Bandizip   | 必备 | [官网](https://www.bandisoft.com/bandizip/)              | √    | ×    |                             |
+| Notepad++  | 开发 | [官网](https://notepad-plus-plus.org/downloads/)         | √    | ×    |                             |
+| 百度网盘   | 必备 | [官网](https://pan.baidu.com/download)                   | √    | √    |                             |
+| PyCharm    | 开发 | [官网](https://www.jetbrains.com/pycharm/)               | √    | √    |                             |
+| IDEA       | 开发 | [官网](https://www.jetbrains.com/idea/)                  | √    | √    |                             |
+| QQ音乐     | 必备 | [官网](https://y.qq.com/)                                | √    | √    |                             |
+| 完美解码   | 必备 | [官网](https://jm.wmzhe.com/)                            | √    | ×    |                             |
+| 格式工厂   | 必备 | [官网](http://www.pcgeshi.com/)                          | √    | ×    |                             |
 
 # 2 Windows系统常用配置
 
