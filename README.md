@@ -6,34 +6,35 @@
 
 | 软件名         | 类别 | 下载方式                                                     | Win  | Mac  | 备注                                        |
 | -------------- | ---- | ------------------------------------------------------------ | ---- | ---- | ------------------------------------------- |
-| Typora         | 开发 | [GitHub](./安装包/Typora)                                    | √    | √    | >=1.0版本收费。                             |
-| Edge           | 必备 | Store                                                        | √    | √    |                                             |
-| 搜狗输入法     | 必备 | [官网](https://pinyin.sogou.com/)                            | √    | √    |                                             |
+| Typora         | 文档 | [备份](./安装包/Typora)                                    | √    | √    | >=1.0版本收费。                             |
+| Edge           | 浏览器 | Store                                                        | √    | √    |                                             |
+| 搜狗输入法     | 输入法 | [官网](https://pinyin.sogou.com/)                            | √    | √    |                                             |
 | VS Code        | 开发 | [官网](https://code.visualstudio.com/)                       | √    | √    |                                             |
 | Git            | 开发 | [官网](https://git-scm.com/)                                 | √    | √    | Git配置参见第5节。                          |
-| Anaconda       | 开发 | [清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/)     | √    | √    | Conda和Pip源配置参见第3节。                 |
-| WPS            | 必备 | [官网](https://www.wps.cn/)                                  | √    | √    |                                             |
-| PyTorch        | 开发 | [官网](https://pytorch.org/get-started/locally/)             | √    | √    | PyTorch安装指南参见第4节。                  |
-| 微信           | 必备 | [官网](https://pc.weixin.qq.com/)                            | √    | √    |                                             |
-| Everything     | 必备 | [官网](https://www.voidtools.com/zh-cn/)                     | √    | ×    |                                             |
-| 有道云笔记     | 必备 | [官网](https://note.youdao.com/)                             | √    | √    |                                             |
-| 有道词典       | 必备 | [官网](https://www.youdao.com/)                              | √    | √    |                                             |
-| Bandizip       | 必备 | [官网](https://www.bandisoft.com/bandizip/)                  | √    | ×    |                                             |
+| Anaconda       | Python | [清华源](https://mirrors.tuna.tsinghua.edu.cn/anaconda/)     | √    | √    | Conda和Pip源配置参见第3节。                 |
+| WPS            | 文档 | [官网](https://www.wps.cn/)                                  | √    | √    |                                             |
+| PyTorch        | Python | [官网](https://pytorch.org/get-started/locally/)             | √    | √    | PyTorch安装指南参见第4节。                  |
+| 微信           | 聊天 | [官网](https://pc.weixin.qq.com/)                            | √    | √    |                                             |
+| Everything     | 搜索 | [官网](https://www.voidtools.com/zh-cn/)                     | √    | ×    |                                             |
+| 有道云笔记     | 笔记 | [官网](https://note.youdao.com/)                             | √    | √    |                                             |
+| 有道词典       | 词典 | [官网](https://www.youdao.com/)                              | √    | √    |                                             |
+| Bandizip       | 压缩 | [官网](https://www.bandisoft.com/bandizip/)                  | √    | ×    |                                             |
 | Notepad++      | 开发 | [官网](https://notepad-plus-plus.org/downloads/)             | √    | ×    | Notepad++配置参见第6节。                    |
-| 百度网盘       | 必备 | [官网](https://pan.baidu.com/download)                       | √    | √    |                                             |
-| PyCharm        | 开发 | [官网](https://www.jetbrains.com/pycharm/)                   | √    | √    |                                             |
-| IDEA           | 开发 | [官网](https://www.jetbrains.com/idea/)                      | √    | √    |                                             |
-| DataGrip       | 开发 | [官网](https://www.jetbrains.com/datagrip/)                  | √    | √    |                                             |
-| QQ音乐         | 必备 | [官网](https://y.qq.com/)                                    | √    | √    |                                             |
-| 完美解码       | 必备 | [官网](https://jm.wmzhe.com/)                                | √    | ×    |                                             |
-| 格式工厂       | 必备 | [官网](http://www.pcgeshi.com/)                              | √    | ×    |                                             |
-| 腾讯会议       | 必备 | [官网](https://meeting.tencent.com/download-center.html)     | √    | √    |                                             |
-| Java SE 8      | 开发 | [GitHub](./安装包/JavaSE)                                    | √    | √    | 提供的安装包只适用于Win，需要配置环境变量。 |
-| EV录屏         | 必备 | [官网](https://www.ieway.cn/evcapture.html)                  | √    | √    |                                             |
-| 花生壳         | 开发 | [官网](https://hsk.oray.com/download/)                       | √    | √    |                                             |
-| XSHELL & XFTP  | 开发 | [官网](https://www.xshell.com/zh/free-for-home-school/) [GitHub](./安装包/XSHELL&XFTP) | √    | ×    |                                             |
-| OpenVPN        | 必备 | [官网](https://openvpn.net/vpn-client/) [GitHub](./安装包/OpenVPN) | √    | √    |                                             |
-| Logitech G Hub | 必备 | [官网](https://support.logi.com/hc/zh-cn/articles/360025298133) [GitHub](./安装包/LogitechGHub) | √    | √    |                                             |
+| 百度网盘       | 网盘 | [官网](https://pan.baidu.com/download)                       | √    | √    |                                             |
+| PyCharm        | Python | [官网](https://www.jetbrains.com/pycharm/)                   | √    | √    |                                             |
+| IDEA           | Java | [官网](https://www.jetbrains.com/idea/)                      | √    | √    |                                             |
+| DataGrip       | 数据库 | [官网](https://www.jetbrains.com/datagrip/)                  | √    | √    |                                             |
+| QQ音乐         | 音乐 | [官网](https://y.qq.com/)                                    | √    | √    |                                             |
+| 完美解码       | 视频 | [官网](https://jm.wmzhe.com/)                                | √    | ×    |                                             |
+| 格式工厂       | 剪辑 | [官网](http://www.pcgeshi.com/)                              | √    | ×    |                                             |
+| 腾讯会议       | 聊天 | [官网](https://meeting.tencent.com/download-center.html)     | √    | √    |                                             |
+| Java SE 8      | Java | [备份](./安装包/JavaSE)                                    | √    | √    | 提供的安装包只适用于Win，需要配置环境变量。 |
+| EV录屏         | 录屏 | [官网](https://www.ieway.cn/evcapture.html)                  | √    | √    |                                             |
+| 花生壳         | 网站 | [官网](https://hsk.oray.com/download/)                       | √    | √    |                                             |
+| XSHELL & XFTP  | 远程 | [官网](https://www.xshell.com/zh/free-for-home-school/) [备份](./安装包/XSHELL&XFTP) | √    | ×    |                                             |
+| OpenVPN        | 远程 | [官网](https://openvpn.net/vpn-client/) [备份](./安装包/OpenVPN) | √    | √    |                                             |
+| Logitech G Hub | 鼠标 | [官网](https://support.logi.com/hc/zh-cn/articles/360025298133) [备份](./安装包/LogitechGHub) | √    | √    |                                             |
+| Dism++ | 维护 | [官网](https://github.com/Chuyu-Team/Dism-Multi-language) [备份](./安装包/Dism++) | √ | × | |
 
 # 2 Windows系统常用配置
 
